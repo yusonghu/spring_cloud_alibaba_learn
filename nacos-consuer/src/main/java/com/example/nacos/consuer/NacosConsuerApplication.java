@@ -13,3 +13,4 @@ public class NacosConsuerApplication {
         SpringApplication.run(NacosConsuerApplication.class,args);
     }
 }
+
